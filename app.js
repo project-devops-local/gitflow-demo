@@ -1,2 +1,3 @@
 login() {}
 // bugfix login
+report() {}
